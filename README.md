@@ -32,5 +32,11 @@ Dataset Size (dataSz).
 Runtime of the sorting algorithm.
 Extra memory allocated during sorting.
 First 100 elements and last 100 elements of the sorted array.
+Sorting Algorithms Implemented:
 
+Selection Sort: Sorts the array by repeatedly finding the minimum element from the unsorted part and moving it to the beginning.
+Insertion Sort: Builds the final sorted array one item at a time by repeatedly taking the next element and inserting it into the sorted part.
+Bubble Sort: Repeatedly steps through the list, compares adjacent elements, and swaps them if they are in the wrong order.
+Merge Sort: Divides the array into two halves, recursively sorts each half, and then merges the sorted halves.
+Heap Sort: Builds a max heap from the array and repeatedly extracts the maximum element from the heap to obtain a sorted array.
 
